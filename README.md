@@ -9,6 +9,7 @@ Features
   - Simple Console Interface: Easy-to-use menu system.
 
 File Storage
+
 All notes are saved in a text file called notes.txt in the same directory as the program. Each note includes the date and time it was added.
 
 Example
